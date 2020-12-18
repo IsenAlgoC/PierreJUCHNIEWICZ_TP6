@@ -15,24 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\rep.h">
+    <ClInclude Include="rep.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\personne.h">
+    <ClInclude Include="liste.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\liste.h">
+    <ClInclude Include="personne.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\rep.c">
+    <ClCompile Include="liste.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\outil.c">
+    <ClCompile Include="outil.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\TP6\Squelette-v3.0\liste.c">
+    <ClCompile Include="rep.c">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
